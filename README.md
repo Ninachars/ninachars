@@ -3,7 +3,7 @@
   
 ## About Me 👩‍💼
 
-- 🔭 I’m currently working as a reservoir geophysicists in the oil and gas industry
+- 🔭 I’m currently working as a Reservoir Geophysicist in the oil and gas sector
 - 🎓 I'm a graduate of Physics (B.Tech) from the Federal University of Technology, Owerri. Nigeria
 - 🌱 I’m currently learning data science/ML via self-paced online resources
 - 🤔 I’m looking forward to connect with like minds
